@@ -4,7 +4,7 @@
 [![Total Downloads](https://poser.pugx.org/munafio/chatify/downloads)](https://packagist.org/packages/munafio/chatify)
 [![License](https://poser.pugx.org/munafio/chatify/license)](https://packagist.org/packages/munafio/chatify)
 
-# Chatify Laravel Package
+# Chatify Laravel Package ( integrated with websocket )
 
 A Laravel package helps you add a complete real-time messaging system to your new / existing application with only one command.
 
